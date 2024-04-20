@@ -1,8 +1,8 @@
 ShopCom Cloud Architecture and Pipeline Strategy
-Project Vision
+Project Vision:
 Welcome to the ShopCom project! This repository presents a comprehensive cloud architecture and pipeline strategy designed for ShopCom, a leading e-commerce company dedicated to revolutionizing online shopping. With a focus on innovation and customer satisfaction, ShopCom aims to redefine the digital shopping experience by providing a seamless platform for customers to explore the latest trends and curate their unique style statements.
 
-Cloud Architecture
+Cloud Architecture:
 The cloud architecture for ShopCom, built using Microsoft Azure services, integrates various critical data sources essential for ShopCom's operations. From transactional data to website interaction and geo-location information, every aspect is meticulously handled to ensure efficient data processing and analysis.
 
 Key Components:
